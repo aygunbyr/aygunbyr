@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-🎓 I graduated from Karabük University - Computer Programming<br><br>💻 I'm open to work as Frontend Developer<br><br>🌱 I'm currently learning MERN Stack<br><br>💬 Ask me about Javascript
+🎓 I graduated from Karabük University - Computer Programming<br><br>💻 I'm open to work as Frontend Developer<br><br>🌱 I'm currently learning React Testing Library<br><br>💬 Ask me about Javascript
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aygunbayir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aygunbayir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aygunbayir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aygunbayir) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
