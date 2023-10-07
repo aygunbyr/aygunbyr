@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓 I have graduated from Karabük University - Computer Programming<br><br>💻 I'm open to work as Frontend Developer<br><br>🌱 I'm currently learning React Testing Library<br><br>💬 Ask me about Javascript
+🎓 I have graduated from Karabük University - Computer Programming<br><br>💻 I'm open to work as Frontend Developer<br><br>🌱 I'm currently learning React Native<br><br>💬 Ask me about Javascript
 
 ## 🌐 Socials:
 
